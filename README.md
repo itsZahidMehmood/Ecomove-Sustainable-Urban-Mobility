@@ -147,4 +147,13 @@ Micro-mobility services showed significant financial losses despite their enviro
 <img width="558" height="305" alt="image" src="https://github.com/user-attachments/assets/c08fb45e-218b-4755-a72b-ddd821681206" />
 <img width="577" height="313" alt="image" src="https://github.com/user-attachments/assets/0d030d3d-2e6f-47c5-990f-c0123ef93f45" />
 
+## Author
+Zahid Mehmood
+
+MSc Data Science | Machine Learning | Data Science | AI
+
+GitHub: https://github.com/itsZahidMehmood
+Portfolio: https://zahidinsights.com
+LinkedIn: https://www.linkedin.com/in/zahid-mehmood-389221220
+
 
