@@ -144,3 +144,7 @@ Snow and rain conditions were associated with increased transportation delays.
 Event days increased passenger demand but also negatively affected service reliability.
 
 Micro-mobility services showed significant financial losses despite their environmental and accessibility contributions.
+<img width="558" height="305" alt="image" src="https://github.com/user-attachments/assets/c08fb45e-218b-4755-a72b-ddd821681206" />
+<img width="577" height="313" alt="image" src="https://github.com/user-attachments/assets/0d030d3d-2e6f-47c5-990f-c0123ef93f45" />
+
+
